@@ -1,0 +1,101 @@
+{
+    "home" : "Home",
+    "features" : "Features",
+    "examples" : "Examples",
+    "gallery" : "Gallery",
+    "contact" : "Contact",
+    "heading" : "Travel",
+    "head-p" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti consequuntur.",
+    "read" : "Read more",
+    "h2" : "Best Features",
+    "text" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quasi voluptate hic provident nulla repellat facere esse molestiae ipsa labore porro minima quam quaerat rem, natus repudiandae debitis est sit pariatur.",
+    "g1" : {
+        "title" : "Experience",
+        "p" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reprehenderit maiores nam, aperiam minima assumenda deleniti hic."
+    },
+    "g2" : {
+        "title" : "Happiness",
+        "p" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reprehenderit maiores nam, aperiam minima assumenda deleniti hic."
+    },
+    "g3" : {
+        "title" : "Adventure",
+        "p" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reprehenderit maiores nam, aperiam minima assumenda deleniti hic."
+    },
+
+    "h3" : "Stunning Examples",
+
+    "c1": {
+        "title" : "Heading",
+        "p" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reprehenderit maiores nam, aperiam minima assumenda deleniti hic."
+    },
+    "c2": {
+        "title" : "Heading",
+        "p" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reprehenderit maiores nam, aperiam minima assumenda deleniti hic."
+    },
+    "c3": {
+        "title" : "Heading",
+        "p" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reprehenderit maiores nam, aperiam minima assumenda deleniti hic."
+    },
+    "c4": {
+        "title" : "Heading",
+        "p" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reprehenderit maiores nam, aperiam minima assumenda deleniti hic."
+    },
+    "c5": {
+        "title" : "Heading",
+        "p" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reprehenderit maiores nam, aperiam minima assumenda deleniti hic."
+    },
+    "c6": {
+        "title" : "Heading",
+        "p" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reprehenderit maiores nam, aperiam minima assumenda deleniti hic."
+    },
+
+    "gallery-heading" : "Gallery heading",
+    "h4" : "Lifestyle",
+    "news-title" : "This is title of the news",
+    "news" :  "Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus et aut officiis debitis aut rerum.",
+    "by": "by",
+    "name": "Jessica Clark",
+    "more": "Read more",
+    "form": "Contact us",
+    "your-name" : "Your name",
+    "email" : "Your email",
+    "subject" : "Subject",
+    "message" : "Your message",
+    "send" : "Send",
+    "location" : "New York, NY 10012",
+    "date" : "Mon - Fri, 8:00-22:00",
+    "phone" : "+ 01 234 567 89",
+    "ads" : "Get connected with us on social networks!",
+    "company": "Company name",
+    "footer-p": "Here you can use rows and columns here to organize your footer content. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "products" : "Products",
+
+    "group1" : {
+        "l1" : "HTML5",
+        "l2" : "CSS3",
+        "l3" : "jQuery",
+        "l4" : "Bootstrap"
+    },
+
+    "useful" : "Useful links",
+
+    "group2" : {
+        "l1" : "Vuejs",
+        "l2" : "PHP",
+        "l3" : "JavaScript",
+        "l4" : "Laravel"
+    },
+
+    "site-contact" : "Contact",
+
+    "site" : {
+        "location" : "New York, NY 10012, US",
+        "mail": "info@example.com",
+        "phone" : "+ 01 234 567 88",
+        "fax" : "+ 01 234 567 89"
+    },
+
+    "copy" : " © 2018 Copyright: ",
+    "author" : "Nasr Galal"
+
+}
